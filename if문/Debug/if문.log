@@ -1,0 +1,4 @@
+﻿  2884.cpp
+D:\동아리 c++\baekjoon_sol\if문\2884.cpp(11,7): warning C4804: '<': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+D:\동아리 c++\baekjoon_sol\if문\2884.cpp(17,13): warning C4804: '<': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+  if문.vcxproj -> D:\동아리 c++\baekjoon_sol\Debug\if문.exe
